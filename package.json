@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2",
+    "ws": "^8.4.0"
+  },
+  "name": "video-meeting-application",
+  "description": "Zoom Clone using NodeJS, WebRTC and Websockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjscoding/video-meeting-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjscoding/video-meeting-application/issues"
+  },
+  "homepage": "https://github.com/cjscoding/video-meeting-application#readme"
+}
